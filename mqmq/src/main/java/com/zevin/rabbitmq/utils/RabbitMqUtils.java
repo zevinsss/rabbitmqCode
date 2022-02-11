@@ -14,7 +14,7 @@ public class RabbitMqUtils {
         //创建一个连接工厂
         ConnectionFactory factory = new ConnectionFactory();
         //设置工厂IP   目的：连接rabbitMQ队列
-        factory.setHost("120.79.23.0");
+        factory.setHost("xxx.xx.xx.x");
         //用户名
         factory.setUsername("admin");
         //设置密码
